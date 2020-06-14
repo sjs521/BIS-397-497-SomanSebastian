@@ -5,7 +5,10 @@ Created on Sat Jun  6 15:46:14 2020
 
 @author: sebastian_soman
 """
-
+# Score: 21/25
+# This function was supposed to work on any list of numbers but
+# be tested on 10 random numbers. Instead, you have hard-coded
+# it to work on only 10 numbers.
 import statistics
 
 def descriptive():
